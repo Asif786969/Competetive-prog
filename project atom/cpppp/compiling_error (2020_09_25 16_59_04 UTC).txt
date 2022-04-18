@@ -1,0 +1,6 @@
+C:\Users\asif1\AppData\Local\Temp\ccvREZ0c.o:asd.cpp:(.text+0x70): undefined reference to `_imp__socket@12'
+C:\Users\asif1\AppData\Local\Temp\ccvREZ0c.o:asd.cpp:(.text+0xb1): undefined reference to `_imp__htons@4'
+C:\Users\asif1\AppData\Local\Temp\ccvREZ0c.o:asd.cpp:(.text+0xc6): undefined reference to `_imp__inet_addr@4'
+C:\Users\asif1\AppData\Local\Temp\ccvREZ0c.o:asd.cpp:(.text+0xe8): undefined reference to `_imp__connect@12'
+C:\Users\asif1\AppData\Local\Temp\ccvREZ0c.o:asd.cpp:(.text+0x11e): undefined reference to `_imp__recv@16'
+collect2.exe: error: ld returned 1 exit status
