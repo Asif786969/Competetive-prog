@@ -1,7 +1,0 @@
-s=set()
-s.add(376)
-s.add(83674)
-s.add(123)
-s.add(7672735)
-print(sorted(s))
-print(*s)
